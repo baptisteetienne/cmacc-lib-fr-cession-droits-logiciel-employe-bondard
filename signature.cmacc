@@ -1,0 +1,24 @@
+// Paramètres
+
+$ lieu_Conclusion = "...lieu de conclusion du Contrat..."
+
+$ date_Conclusion = "...Date conclusion du Contrat..."
+
+$ nom_Cedant = "...Indiquer le Nom du Cédant..."
+
+$ nom_Cessionnaire = "...Indiquer le NOM..."
+
+
+// Document
+
+Fait à {{lieu_Conclusion}}, le {{date_Conclusion}}
+
+En 2 exemplaires originaux.
+
+Le Cédant
+{{nom_Cedant}}
+
+
+
+Le Cessionnaire
+{{nom_Cessionnaire}}

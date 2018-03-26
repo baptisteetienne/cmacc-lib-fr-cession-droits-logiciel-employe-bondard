@@ -1,0 +1,13 @@
+// Paramètres
+
+$ competence_Juridiction = "... indiquer les juridictions compétentes (exemple : françaises)"
+
+$ loi_Applicable = "... déterminer la loi applicable au Contrat"
+
+// Document
+
+Article 8. Droit applicable - Litiges 
+ 
+Si des difficultés surviennent à l’occasion de l’interprétation ou de l’exécution ou de la terminaison du présent contrat, les parties auront recours à une conciliation amiable préalablement à toute instance judiciaire. 
+
+Si les difficultés survenues à l’occasion de l’interprétation ou de l’exécution ou de la terminaison du présent contrat n’ont pas été résolues par voie de conciliation, le litige sera soumis aux juridictions {{competence_Juridiction}} compétentes qui le trancheront conformément à la loi {{loi_Applicable}}.

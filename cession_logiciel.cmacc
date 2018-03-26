@@ -1,0 +1,86 @@
+
+// Contrat de cession de droits
+
+//  données à compléter
+
+$ competence_Juridiction = "... indiquer les juridictions compétentes (exemple : françaises)"
+
+$ loi_Applicable = "... déterminer la loi applicable au Contrat"
+
+$ type_Logiciel = "...indiquer le type de logiciel ou de plateforme..."
+
+$ nom_Projet_Cessionnaire = "...nom du projet..."
+
+$ contenu_Instructions_Cedant = "... Compléter. (A titre d’exemple : état de l’art scientifique, algorithmes, spécifications d’environnement, mémoire de recherche sur les dérivations, informations sur les composants du simulateur, données techniques pour aider à la réalisation des tests de convenance, données de clients pilotes ou description des données à générer dans le simulateur Scientifique, schémas du procédé, description du processus et du dispositif technique, conditions d’exercice du savoir faire pour l’architecture scientifique) ... ""
+
+$ date_Remise_Logiciel = "...indiquer une date..."
+
+$ forme_Univers_Logiciel = "...Compléter..."
+
+$ nom_Cedant = "...Indiquer le Nom et le prénom..."
+
+$ domicile_Cedant = "...Indiquer le domicile..."
+
+$ nom_Cessionnaire = "...Indiquer le NOM et le prénom..."
+
+$ domicile_Cessionnaire = "...Indiquer le domicile..."
+
+$ description_Projet_Cessionnaire = "...écrire le projet du cessionnaire..."
+
+$ description_Logiciel = "...Décrire le type de logiciel ou de plateforme..."
+
+$ labellisation_Cessionnaire = "...indiquer labellisation si besoin..."
+
+$ missions_Cedant = "...Détailler les missions du cédant..."
+
+$ lieu_Conclusion = "...lieu de conclusion du Contrat..."
+
+$ date_Conclusion = "...Date conclusion du Contrat..."
+
+
+// Fichiers appelés
+
+$ preambule = [./preambule.cmacc]
+
+$ objet_Cession = [./objet_Cession.cmacc]
+
+$ droits_PI_Cession = [./droits_PI_Cession.cmacc]
+
+$ livraison_Garantie = [./livraison_Garantie.cmacc]
+
+$ prix = [./Prix.cmacc]
+
+$ informations_Communiquees = [./informations.cmacc]
+
+$ confidentiality = [./confidentialityFR.cmacc]
+
+$ loyalty = [./loyalty.cmacc]
+
+$ droit_Applicable = [./droit_Applicable.cmacc]
+
+$ signature = [./signature.cmacc]
+
+// Document
+
+{{preambule}}
+
+IL A ETE ENSUITE CONVENU ET ARRETE CE QUI SUIT : 
+
+{{objet_Cession}}
+
+{{droits_PI_Cession}}
+
+{{livraison_Garantie}}
+
+{{prix}}
+
+{{informations_Communiquees}}
+
+{{confidentiality}}
+
+{{loyalty}}
+
+{{droit_Applicable}}
+
+{{signature}}
+

@@ -1,0 +1,14 @@
+// Paramètres
+
+$ type_Logiciel = "...indiquer le type de logiciel ou de plateforme..."
+
+$ contenu_Instructions_Cedant = "... Compléter. (A titre d’exemple : état de l’art scientifique, algorithmes, spécifications d’environnement, mémoire de recherche sur les dérivations, informations sur les composants du simulateur, données techniques pour aider à la réalisation des tests de convenance, données de clients pilotes ou description des données à générer dans le simulateur Scientifique, schémas du procédé, description du processus et du dispositif technique, conditions d’exercice du savoir faire pour l’architecture scientifique) ... ""
+
+
+// Document
+
+Article 5. Propriété des Informations Communiquées
+
+Le Cédant reconnaît avoir reçu du Cessionnaire toutes les informations et instructions relatives à la préparation du “indiquer le type de logiciel ou de plateforme” et à ses fonctionnalités, et notamment, mais pas exclusivement : {{contenu_Instructions_Cedant}}
+
+Toute Information Confidentielle divulguée conformément au présent Contrat restera la propriété du Cessionnaire, et devra être retournée au Cessionnaire, à la demande de celui-ci, et en tout état de cause aux termes du Contrat figurant en Annexe 1 au présent Contrat (Contrat de Travail signé entre le Cédant et le Cessionnaire).  

@@ -1,0 +1,20 @@
+// Paramètres
+
+$ date_Remise_Logiciel = "...indiquer une date..."
+
+$ type_Logiciel = "...indiquer le type de logiciel ou de plateforme..."
+
+$ forme_Univers_Logiciel = "...Compléter..."
+
+// Document
+
+Article 3. Livraison – Garantie
+
+Le Cédant remettra au Cessionnaire, d’ici au {{date_Remise_Logiciel}} sur support électronique (tel une clé USB),  l’univers du {{type_Logiciel}}, sous la forme suivante : {{forme_Univers_Logiciel}} :
+A titre d'exemple :
+les programmes d’installation standard des composants scientifiques,
+les données produites,
+les requêtes SQL de configuration ou d’extraction des données,
+la documentation.
+
+Le Cédant garantit la conformité de la préparation {{type_Logiciel}} à l’état de l’art scientifique communiqué par le Cessionnaire. 

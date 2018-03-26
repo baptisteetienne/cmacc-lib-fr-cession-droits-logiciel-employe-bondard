@@ -1,0 +1,71 @@
+// Paramètres
+
+
+// Description Parties
+
+$ nom_Cedant = "Baptiste Etienne"
+
+$ domicile_Cedant = "Assas"
+
+$ nom_Cessionnaire = "Grégoire Hue"
+
+$ domicile_Cessionnaire = "Sorbonne"
+
+// Description contenu cession
+
+$ nom_Projet_Cessionnaire = "...nom du projet..."
+
+$ description_Projet_Cessionnaire = "...écrire le projet du cessionnaire..."
+
+$ type_Logiciel = "...indiquer le type de logiciel ou de plateforme..."
+
+$ description_Logiciel = "...Décrire le type de logiciel ou de plateforme..."
+
+$ labellisation_Cessionnaire = "...indiquer labellisation si besoin..."
+
+$ missions_Cedant = "...Détailler les missions du cédant..."
+
+// Document
+
+ENTRE LES SOUSSIGNES :
+
+
+Monsieur {{nom_Cedant}}, demeurant {{domicile_Cedant}}
+
+Ci-après « le Cédant », 
+
+d'une part,
+
+ET 
+
+Monsieur {{nom_Cessionnaire}}, demeurant {{domicile_Cessionnaire}}
+
+Ci-après « le Cessionnaire »,
+
+d'autre part,
+
+
+
+
+
+
+
+
+ETANT PREALABLEMENT RAPPELE QUE :
+
+Le Cessionnaire, porteur du projet {{nom_Projet_Cessionnaire}}, a pour objectif de développer “décrire le” {{description_Projet_Cessionnaire}}
+
+Le Cessionnaire souhaite préparer {{type_Logiciel}} pour  {{nom_Projet_Cessionnaire}}. 
+
+{{description_Projet_Cessionnaire}}
+
+Le Cessionnaire a obtenu la labellisation {{labellisation_Cessionnaire}}. 
+
+Le Cédant prépare {{type_Logiciel}} sous la direction du Cessionnaire.
+
+Dans ce cadre, le Cédant réalise un certain nombre de missions, notamment :
+{{missions_Cedant}}
+
+Le Cessionnaire souhaite être titulaire de l'ensemble des droits d'auteur sur la préparation du {{type_Logiciel}} qui sera développée par le Cédant, et sur l’ensemble de la documentation qui sera rédigée par le Cédant. 
+
+C'est dans ce contexte que le Cédant et le Cessionnaire se sont rapprochés pour formaliser la cession des droits d'auteur portant sur la préparation du {{type_Logiciel}}

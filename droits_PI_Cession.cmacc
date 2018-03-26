@@ -1,0 +1,25 @@
+// Paramètres
+
+$ type_Logiciel = "...indiquer le type de logiciel ou de plateforme..."
+
+$ nom_Projet_Cessionnaire = "...nom du projet..."
+
+
+
+// Document
+
+Article 2. Cession des droits de propriété intellectuelle
+
+Au titre du Contrat, le Cédant cède à titre exclusif et définitif au Cessionnaire, au fur et à mesure de la création du {{type_Logiciel}} et des documents afférents rédigés pour son utilisation, l'ensemble des droits d'auteur y afférents ainsi que tout autre droit de propriété. 
+
+Au titre de cette cession de droits, le Cédant cède notamment au Cessionnaire les droits :
+de reproduction et d'utilisation pour quelque usage que ce soit, par quelque procédé que ce soit, sur tout support papier, magnétique, optique, vidéographique ou autre, pour toute exploitation, y compris en réseau ;
+de représentation et diffusion, de quelque façon que ce soit, sur quelque support et/ou réseau que ce soit, édition ;
+d'adaptation, de modification, correction, développement, intégration, transcription, traduction ;
+de commercialisation, de quelque façon que ce soit.
+
+Cette cession est effective tant pour la France que pour l'étranger et pour toute la durée de protection du {{type_Logiciel}} et des documents rédigés pour en permettre l’utilisation et l’exploitation par {{nom_Projet_Cessionnaire}}.
+
+A ce titre, le Cessionnaire pourra notamment, en toute indépendance, exploiter le {{type_Logiciel}} et documents rédigés, ainsi que toute adaptation ou modification qu'il réaliserait, et notamment par voie de licences, à son seul profit et sans devoir de redevances au Cédant.
+
+Aux termes de cette cession, le Cédant ne dispose plus d'aucun droit sur le {{type_Logiciel}} et les documents rédigés. 
